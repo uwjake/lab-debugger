@@ -1,3 +1,10 @@
+# Debug log
+
+1.  Reset not wokring
+2.  mul function in Calculator class is actually div
+3.  Onclick listener on divButton is actually calling MUL
+4.  This line: Calculator.Operator.SUB -> result = mCalculator!!.sub(operand).toString() should call div function
+
 # lab-debugger
 
 This repository contains code examples to use in learning Android Studio's Debugger tool.
